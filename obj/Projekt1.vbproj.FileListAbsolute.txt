@@ -1,0 +1,9 @@
+G:\WORK\PDFFormxTract\obj\Debug\ResolveAssemblyReference.cache
+G:\WORK\PDFFormxTract\obj\Debug\Projekt1.vbproj.GenerateResource.Cache
+G:\WORK\PDFFormxTract\obj\Debug\Projekt1.exe
+G:\WORK\PDFFormxTract\obj\Debug\Projekt1.xml
+G:\WORK\PDFFormxTract\obj\Debug\Projekt1.pdb
+G:\WORK\PDFFormxTract\bin\Projekt1.exe
+G:\WORK\PDFFormxTract\bin\Projekt1.pdb
+G:\WORK\PDFFormxTract\bin\Projekt1.xml
+G:\WORK\PDFFormxTract\obj\Debug\Projekt1.frmMain.resources
